@@ -28675,8 +28675,9 @@ const Home = ({ name , title  })=>{
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                     src: (0, _downArrowSvgDefault.default),
                     style: {
-                        height: "3rem",
-                        width: "3rem"
+                        height: "4rem",
+                        width: "4rem",
+                        animation: "3s ease-out 0s 10 bounce"
                     },
                     alt: imageAltText
                 }, void 0, false, {
@@ -28810,7 +28811,8 @@ const Portfolio = ()=>{
                             style: {
                                 height: "90%",
                                 width: "100%",
-                                objectFit: "cover"
+                                objectFit: "cover",
+                                animation: "5s ease-out 0s 1 slideInLeft"
                             },
                             alt: imageAltText
                         }, void 0, false, {
