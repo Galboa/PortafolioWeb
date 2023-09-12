@@ -30,7 +30,10 @@
         "emmet.includeLanguages": {
           "javascript": "javascriptreact"
         },
-        "emmet.triggerExpansionOnTab": true
+        "emmet.triggerExpansionOnTab": true,
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+        },
       }
     }
   },
