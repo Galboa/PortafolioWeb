@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/trabajos.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "my work";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Encuentra algunas de mis certificaciones 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "En mi perfil de Credly puedes visualizar las certificaciones que he obtenido.",
+    url: "https://www.credly.com/users/alejandro-yahir-gallo-botello",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Legal Tech Summit 2023",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Me enorgullece haber formado parte del Legal Tech Summit 2023 de Lawgic, donde exploramos las últimas tendencias en Derecho y tecnología. Una experiencia enriquecedora que amplió mi horizonte profesional.",
+    url: "https://app.certtify.com/certificate/c7ae5f1a-2fc8-4404-979b-01c8447c3c92",
   },
   {
-    title: "My Resume Site",
+    title: "Diseño aplicativo movil ApPIQ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Diseño para un aplicativo movil gubernamental de la mano del la Secretaria de Educación Pública de Querétaro.",
+    url: "https://www.figma.com/file/4ENr6aQ6K5Yf3i06E7ffo4/AppPQ---Redise%C3%B1o?type=design&node-id=0-1&mode=design",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Perfil de GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Encontraran un poco de mi trabajo en GitHub, donde he colaborado en proyectos de código abierto.",
+    url: "https://github.com/Galboa",
   },
 ];
 
