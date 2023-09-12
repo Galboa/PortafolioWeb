@@ -32,8 +32,7 @@ const imageAltText = "my work";
 const projectList = [
   {
     title: "Encuentra algunas de mis certificaciones 🎉",
-    description:
-      "En mi perfil de Credly puedes visualizar las certificaciones que he obtenido.",
+    description: "En mi perfil de Credly puedes visualizar las certificaciones que he obtenido.",
     url: "https://www.credly.com/users/alejandro-yahir-gallo-botello",
   },
   {
