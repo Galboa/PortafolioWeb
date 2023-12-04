@@ -24,7 +24,7 @@ const imageAltText = "background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Soy una persona apasionada por el aprendizaje constante y la resolución de problemas, con un enfoque en lograr metas profesionales en mi carrera en el diseño de UX/UI, donde puedo combinar mi creatividad y habilidades técnicas para crear experiencias digitales significativas y atractivas.";
+  "Soy una persona apasionada por el aprendizaje constante y la resolución de problemas, con un enfoque en lograr metas profesionales en mi carrera en el diseño de UX/UI, donde puedo combinar mi creatividad y habilidades técnicas para crear experiencias digitales significativas.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
