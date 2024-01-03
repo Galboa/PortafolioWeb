@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  ' "El diseño no es solo cómo se ve y cómo se siente. El diseño es cómo funciona." - Steve Jobs';
+  ' "El diseño no es solo cómo se ve y cómo se siente. El diseño es cómo funciona." - Steve Jobss';
 
 const About = () => {
   return (
